@@ -1,12 +1,12 @@
+<!-- Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=HEY+I'M+ANURAG+GAUR" alt="Typing SVG" />
 </p>
 
-
-<!-- Social Links -->
+<!-- Social Link -->
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-gaur-aab5b6246/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -14,17 +14,17 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently pursuing **BCA (Bachelor of Computer Applications)**
-- ☕ NIIT Certified **Java Developer** (*StackRoute powered*)
-- 🌐 Passionate about **Web Development**, **Java**, and exploring emerging tech
-- 📚 Currently learning: **DSA**, **JavaFX**, and strengthening backend skills
+- 🎓 Pursuing **BCA (Bachelor of Computer Applications)**
+- ☕ NIIT Certified **Java Developer** *(StackRoute powered)*
+- 💻 Passionate about **Web Development**, **Java**, and exploring new technologies
+- 🌱 Currently learning: **DSA**, **JavaFX**, and improving backend skills
 - 🧰 Tools I use: `VS Code`, `IntelliJ IDEA`, `Eclipse`, `MySQL Workbench`
 
 ---
 
 ### 🚀 Tech Stack
 
-#### 🖥️ Frontend
+#### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -50,13 +50,13 @@
 
 ### 🏆 Certification
 
-📜 **Foundation Program in Java** – *NIIT (Powered by StackRoute)*  
-🗓️ *April 2022 – June 2022*  
-✅ Earned Title: **Java Developer** *(19 July 2022)*
+📜 **Foundation Program in Java – NIIT (Powered by StackRoute)**  
+🗓 *April 2022 – June 2022*  
+✅ *Certified as Java Developer on 19 July 2022*
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-gaur-aab5b6246/">
@@ -66,23 +66,5 @@
 
 ---
 
-### ✨ Fun Fact
-
-> *“I love writing code that not only works — but also looks clean, readable, and powerful.”* 🚀
-
----
-
-### 📈 GitHub Stats (Optional Bonus)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraggaur&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraggaur&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
-
-### 🧲 Visitors Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuraggaur&label=Profile%20Views&color=0e75b6&style=flat" alt="anuraggaur" />
-</p>
+> *“Strive for progress, not perfection.”*  
+> — 💡 *Anurag Gaur*
