@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anurag Gaur</h1>
-<h3 align="center">BCA Student | NIIT Certified Java Developer | Web Enthusiast</h3>
+<!-- Typing Effect Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Anurag+Gaur;Java+Developer+%7C+Web+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-gaur-aab5b6246/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -11,52 +13,59 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I’m currently pursuing *BCA*
-- 🎯 NIIT Certified *Java Developer*
-- 💻 I’m passionate about *Web Development, **Java*, and exploring new tech
-- 🌱 Currently learning *DSA, **JavaFX*, and improving my backend skills
-- 🚀 Tools I use: VS Code, IntelliJ IDEA, Eclipse, MySQL Workbench
+- 🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**
+- 🎖 NIIT Certified **Java Developer** *(StackRoute powered)*
+- 💻 Passionate about **Web Development**, **Java**, and **new tech trends**
+- 🌱 Learning **Data Structures & Algorithms**, **JavaFX**, and sharpening backend skills
+- ⚒ Tools I frequently use: `VS Code`, `IntelliJ IDEA`, `Eclipse`, `MySQL Workbench`
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Tech Stack
 
-#### 👨‍Frontend
+#### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </p>
 
-#### ⚙ Backend & DB
+#### 🔧 Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-#### 🧰 Tools & IDEs
+#### 🛠 Tools & IDEs
 <p>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQLWorkbench-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-### 🏆 Certification
+### 🏆 Certifications
 
-📜 *Foundation Program in Java – NIIT (Powered by StackRoute)*  
-🗓 April 2022 – June 2022  
-✅ Granted title: *Java Developer* on 19 July 2022
-
----
-
-### 🌐 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/anurag-gaur-aab5b6246/)
+📜 **Foundation Program in Java – NIIT (Powered by StackRoute)**  
+🗓 *April 2022 – June 2022*  
+✅ *Certified as Java Developer on 19 July 2022*
 
 ---
 
-Thanks for visiting! 😊
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-gaur-aab5b6246/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🙌 Thanks for visiting!
+
+> *“Strive for progress, not perfection.”*  
+> — 🌟 *Anurag Gaur*
