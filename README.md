@@ -1,7 +1,7 @@
-<!-- Typing Animation (Digital Name Effect) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FEEF&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Gaur;NIIT+Certified+Java+Developer;Web+Enthusiast+%26+BCA+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=HEY+I'M+ANURAG+GAUR" alt="Typing SVG" />
 </p>
+
 
 <!-- Social Links -->
 <p align="center">
